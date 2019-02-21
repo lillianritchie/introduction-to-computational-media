@@ -1,0 +1,43 @@
+@font-face {
+    font-family: lemonyellow;
+    src: url('assets/lemonyellow.otf');
+  
+}
+
+
+
+html, body {
+  margin: 10;
+  padding: 10;
+  font-family:lemonyellow;
+  color: #14003c;
+  background-image: url("assets/background.png");
+   background-repeat: no-repeat;
+    background-size: auto;
+  border:none;
+ 
+}
+canvas {
+  font-family:lemonyellow;
+  position:absolute;
+  border:none;
+}
+
+p { 
+   color: #f975bc;
+  font-size:26pt;
+  text-align: CENTER;
+  line-height: 45pt;
+  
+  
+}
+
+
+input {
+  font-family:lemonyellow;
+  font-size: 20pt;
+  text-align: CENTER;
+  background: #ff8cb8;
+  color: #14003c;
+	
+}
