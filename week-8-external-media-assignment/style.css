@@ -1,0 +1,33 @@
+ @font-face {
+   font-family: "MotionPicture";
+   src: url("MotionPicture.ttf");
+ }
+
+ body,
+ html {
+   margin: 10pt;
+   padding: 2pt;
+   background-image: url("wallpaper.png");
+   background-repeat: repeat;
+   font-family: "MotionPicture";
+   text-align: center;
+   color:#001230;
+ }
+
+ h1 {
+   font-size: 72pt;
+     margin: -10pt;
+ }
+
+ h2 {
+   font-size: 32pt;
+   
+   font-family: helvetica;
+ }
+
+  div{
+    align-self:center;
+}
+ canvas {
+   display: inline;
+ }
